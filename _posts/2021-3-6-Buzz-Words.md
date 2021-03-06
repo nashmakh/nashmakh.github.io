@@ -19,14 +19,15 @@ Within Supervised learning, there are 2 branches based on the output we desire, 
 
 **Classification** is when we want the algorithm to classify data. For example, we provide the machine with labeled pictures of many different kinds of apples and cupcakes. It learns from the properties in these picture - shape of a cupcake, stem of an apple, etc to correctly classify an unseen, unlabelled picture of a cupcake (Figure 1).
 
- ![supervised.png](attachment:ef7e2e3f-4c44-4ff7-a741-9665eb3c5b82.png)
+ ![supervised.png](../images/supervised.png)
+ 
  
 Figure 1. Supervised learning – Classification
 
   **Regression** (Figure 2) is used when we want to obtain a value, usually continuous. For example, we provide the machine with housing data that shows the price of the house based on various factors like size of unit, age of unit, etc. The machine then uses a regression model to predict housing prices using factor values not seen in the data set.
 
 
- ![supervised1.png](attachment:66ea4a0a-f145-4c7f-aeb7-435305c03302.png)
+ ![supervised1.png](../images/supervised1.png)
  
 Figure 2. Supervised learning - Regression
 
@@ -42,7 +43,7 @@ As with supervised learning, unsupervised learning also has two branches – clu
 
 **Clustering** deals with finding patterns in data and grouping natural clusters (groups) if they exist in the data. There are certain modifications that can be made to control the granularity of these groups. In Figure 3 below, an unsupervised learning algorithm called K-means Clustering finds 3 distinct clusters in the data.
 
- ![unsupervised.png](attachment:86b97249-3a40-4335-98bc-bf4f71295676.png)
+ ![unsupervised.png](../images/unsupervised.png)
  
 Figure 3. Unsupervised learning - K-means Clustering algorithm in action
 
@@ -52,7 +53,7 @@ Figure 3. Unsupervised learning - K-means Clustering algorithm in action
 
 Another buzz word you were probably eager to learn about is Neural Networks. Neural Networks is a particular type of supervised learning model that can be used for classification or regression. An illustration of how a neural network model works in shown in Figure 4.
 
- ![neural network.png](attachment:b28a233b-49bf-4337-a0d4-480a9128fec2.png)
+ ![neural network.png](../images/neural network.png)
  
 Figure 4. A neural network structure example
 
