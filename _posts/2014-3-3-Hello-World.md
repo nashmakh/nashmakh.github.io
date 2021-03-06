@@ -1,4 +1,7 @@
-# Data Science Buzzwords Demystified 
+---
+layout: post
+title: Data Science Buzzwords Demystified 
+---
 
 Buzz words like Machine Learning, Deep Learning, Supervised learning, Unsupervised learning, Neural Networks are thrown around a lot these days. But what do they really mean? This blog post will hopefully demystify these terms for you and encourage you to dive deeper into these topics.
 
